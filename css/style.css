@@ -1,0 +1,13 @@
+body {
+	position: relative;
+}
+
+h1 {
+	font-family:'Beloved Sans W00 Bold';
+	margin: auto;
+	position: absolute;
+	overflow: auto;
+	width: 50%;
+	height: 50%;
+	top: 0; left: 0; bottom: 0; right: 0;
+}
