@@ -19,6 +19,8 @@ noGuest = [
 'Gonzalez',
 'McGarrahan',
 'Lolis Coleman',
+'Coleman',
+'Lolis'
 ];
 
 oneGuest = [
@@ -74,7 +76,7 @@ var noGuest = noGuest.map(function(lastname){
 	return lastname.toLowerCase();
 })
 
-var oneGuest = oneGuest.map(function(lastname){
+var oneGuest = oneGuest.map(function(lastname){ 
 	return lastname.toLowerCase();
 })
 
