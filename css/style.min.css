@@ -326,7 +326,7 @@ h1{font-family:"Frontage W00 Bold";margin:auto;overflow:auto;margin-bottom:0;top
 #team h4{font-family:"Frontage W00 Bold";font-size:.75rem;text-align:center;margin-bottom:.25rem}
 #team h5{font-family:"Frontage W00 Regular";font-size:.675rem;text-align:center}
 #team .headshot{border-radius:100%;padding:.25rem;border:1px solid #c06c84;margin-bottom:1rem;width:100%;max-width:250px}
-#formpage{background:#f8b195;padding:5rem 0;height:100vh;color:#355c7d}
+#formpage{background:#355c7d;padding:5rem 0;color:#355c7d}
 .lettermark{margin-left:auto;margin-right:auto;max-width:150px;display:block;text-align:center;margin-bottom:2.5rem}
 .lettermark img{margin-bottom:0;margin-bottom:10px}
 .date{font-size:1.5rem;color:white;text-align:center;font-family:'Beloved Sans W00 Regular'}
@@ -337,6 +337,8 @@ h1{font-family:"Frontage W00 Bold";margin:auto;overflow:auto;margin-bottom:0;top
 .rsvp-btn{display:inline-block;text-align:center;line-height:1;cursor:pointer;-webkit-appearance:none;-webkit-transition:background-color .25s ease-out,color .25s ease-out;transition:background-color .25s ease-out,color .25s ease-out;vertical-align:middle;border:1px solid transparent;border-radius:2rem;padding:.85em 1em;margin:0 0 1rem 0;font-size:.9rem;background-color:#6c5b7b;color:#fefefe;padding:.5rem;margin:1rem 0;font-size:1rem;font-family:"Frontage W00 Regular"}
 [data-whatinput='mouse'] .rsvp-btn{outline:0}
 .rsvp-btn:hover,.rsvp-btn:focus{background-color:#c06c84;color:#fefefe}
+.rsvp-hero{background:url("/img/rsvp-hero.jpg");background-repeat:no-repeat;background-size:cover;background-position:center;height:30rem}
+.rsvp-container{background:#f8b195;height:30rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
 @media screen and (orientation:landscape){.show-for-landscape,.hide-for-portrait{display:block !important}
 .hide-for-landscape,.show-for-portrait{display:none !important}
 }@media screen and (orientation:portrait){.show-for-landscape,.hide-for-portrait{display:none !important}
@@ -541,6 +543,8 @@ h6{font-size:1rem}
 .show-for-medium{display:none !important}
 .date{display:block;height:initial;padding:5rem 0}
 .cal-buttons .small-text-center{text-align:center}
+.rsvp-hero{height:15rem}
+.rsvp-container{display:block;height:initial;padding:5rem 0}
 }@media print{*{background:transparent !important;color:black !important;box-shadow:none !important;text-shadow:none !important}
 .show-for-print{display:block !important}
 .hide-for-print{display:none !important}

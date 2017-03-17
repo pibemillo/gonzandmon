@@ -94,24 +94,24 @@ $(document).ready(function() {
 		// console.log($('#guest-name').val());
 		var name = $('#guest-name').val().toLowerCase();
 		if ($.inArray(name, noGuest) !== -1) {
-			$('#rsvp-form').toggleClass('hide');
+			$('#rsvp-form-top').toggleClass('hide');
 			$('#g-form').removeClass('hide');
 			$('#g-form').addClass('show');
 			$('#g-form').append(formNoGuest);
 			console.log('no guest')
 		} else if ($.inArray(name, oneGuest) !== -1) {
-			$('#rsvp-form').toggleClass('hide');
+			$('#rsvp-form-top').toggleClass('hide');
 			$('#g-form').removeClass('hide');
 			$('#g-form').addClass('show');
 			$('#g-form').append(form1Guest);
 		} else if ($.inArray(name, twoGuest) !== -1) {
-			$('#rsvp-form').toggleClass('hide');
+			$('#rsvp-form-top').toggleClass('hide');
 			$('#g-form').removeClass('hide');
 			$('#g-form').addClass('show');
 			$('#g-form').append(form2Guest);
 		} else {
 			if ($('.form-error').length == 0	){				
-				$('#rsvp-form').append('<p class="form-error text-center">try again</p>')
+				$('#rsvp-form').append('<p class="form-error text-center" style="display:block;">Hmm..try again. Do we know you by another last name?</p>')
 			}
 			// console.log('your not on the list')
 		}
