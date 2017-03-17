@@ -286,7 +286,7 @@ select[multiple]{height:auto;background-image:none}
 .clearfix::before,.clearfix::after{content:' ';display:table}
 .clearfix::after{clear:both}
 .siteheader{background:#fefefe}
-#logo{font-family:"Frontage W00 Bold";text-align:center;color:#355c7d;font-size:1rem;padding:.5rem}
+#logo{font-family:"Frontage W00 Bold";text-align:center;color:#355c7d;font-size:1.25rem;padding:.5rem}
 .navigation{font-family:"Frontage W00 Regular";font-size:.75rem}
 .navigation ul{display:inline-block;text-align:center;margin-left:0;width:100%}
 .navigation ul li{display:inline-block;padding:.125rem .375rem}
@@ -322,7 +322,7 @@ h1{font-family:"Frontage W00 Bold";margin:auto;overflow:auto;margin-bottom:0;top
 #team{background:#355c7d;padding:5rem 0;color:#f8b195}
 #team hr{margin:5rem 0;border-bottom-color:#f8b195}
 #team h2{font-family:"Frontage W00 Bold";font-size:1.125rem}
-#team h3{font-family:"Frontage W00 Regular";font-size:1rem}
+#team h3{font-family:"Frontage W00 Regular";font-size:1rem;margin-bottom:2.5rem}
 #team h4{font-family:"Frontage W00 Bold";font-size:.75rem;text-align:center;margin-bottom:.25rem}
 #team h5{font-family:"Frontage W00 Regular";font-size:.675rem;text-align:center}
 #team .headshot{border-radius:100%;padding:.25rem;border:1px solid #c06c84;margin-bottom:1rem;width:100%;max-width:250px}
