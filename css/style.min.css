@@ -152,7 +152,7 @@ p{font-size:inherit;line-height:1.6;margin-bottom:1rem;text-rendering:optimizeLe
 em,i{font-style:italic;line-height:inherit}
 strong,b{font-weight:bold;line-height:inherit}
 small{font-size:80%;line-height:inherit}
-h1,h2,h3,h4,h5,h6{font-family:"Basic Sans W00 Light","Catamaran","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;font-weight:normal;font-style:normal;color:inherit;text-rendering:optimizeLegibility;margin-top:0;margin-bottom:1rem;line-height:1.4}
+h1,h2,h3,h4,h5,h6{font-family:"Basic Sans W00 Light","Catamaran","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;font-weight:normal;font-style:normal;color:inherit;text-rendering:optimizeLegibility;margin-top:0;margin-bottom:1.5rem;line-height:1.4}
 h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{color:#cacaca;line-height:0}
 h1{font-size:1.5rem}
 h2{font-size:1.25rem}
@@ -310,15 +310,22 @@ h1{font-family:"Frontage W00 Bold";margin:auto;overflow:auto;margin-bottom:0;top
 #wedding h3{font-family:"Frontage W00 Regular";font-size:.875rem}
 #wedding .wedding_times{padding:2.5rem}
 #wedding .wedding_transport{font-size:1rem}
-#accommodations{background:#c06c84;padding:5rem 0;color:#f8b195;font-size:1.125rem}
-#accommodations h2{font-family:"Frontage W00 Bold";font-size:1.125rem;color:#f8b195}
-#accommodations h3{font-family:"Frontage W00 Regular";font-size:1rem;color:#f8b195}
+#accommodations{background:#f67280;padding:5rem 0;color:#355c7d;font-size:1.125rem}
+#accommodations h2{font-family:"Frontage W00 Bold";font-size:1.125rem}
+#accommodations h3{font-family:"Frontage W00 Regular";font-size:1rem}
 .bold{font-family:"Basic Sans W00 SemiBold"}
-#travel{background:#6c5b7b;padding:5rem 0;color:#f8b195;font-size:1.125rem}
+#travel{background:#c06c84 url(/img/mountains-footer.svg);background-position:bottom;background-repeat:repeat-x;padding:5rem 0 20rem 0;color:#f8b195;font-size:1.125rem}
 #travel h2{font-family:"Frontage W00 Bold";font-size:1.125rem;color:#f8b195}
 #travel h3{font-family:"Frontage W00 Regular";font-size:1rem;color:#f8b195}
 #travel p{font-family:"Basic Sans W00 Light"}
 #travel a{color:#f67280}
+#team{background:#355c7d;padding:5rem 0;color:#f8b195}
+#team hr{margin:5rem 0;border-bottom-color:#f8b195}
+#team h2{font-family:"Frontage W00 Bold";font-size:1.125rem}
+#team h3{font-family:"Frontage W00 Regular";font-size:1rem}
+#team h4{font-family:"Frontage W00 Bold";font-size:.75rem;text-align:center;margin-bottom:.25rem}
+#team h5{font-family:"Frontage W00 Regular";font-size:.675rem;text-align:center}
+#team .headshot{border-radius:100%;padding:.25rem;border:1px solid #c06c84;margin-bottom:1rem;width:100%;max-width:250px}
 #formpage{background:#f8b195;padding:5rem 0;height:100vh;color:#355c7d}
 .lettermark{margin-left:auto;margin-right:auto;max-width:150px;display:block;text-align:center;margin-bottom:2.5rem}
 .lettermark img{margin-bottom:0;margin-bottom:10px}
