@@ -339,6 +339,8 @@ h1{font-family:"Frontage W00 Bold";margin:auto;overflow:auto;margin-bottom:0;top
 .rsvp-btn:hover,.rsvp-btn:focus{background-color:#c06c84;color:#fefefe}
 .rsvp-hero{background:url("/img/rsvp-hero.jpg");background-repeat:no-repeat;background-size:cover;background-position:center;height:30rem}
 .rsvp-container{background:#f8b195;height:30rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
+#registry{background:#fefefe;padding:5rem 0;color:#6c5b7b}
+#registry h2{font-family:"Frontage W00 Bold";font-size:1.125rem}
 @media screen and (orientation:landscape){.show-for-landscape,.hide-for-portrait{display:block !important}
 .hide-for-landscape,.show-for-portrait{display:none !important}
 }@media screen and (orientation:portrait){.show-for-landscape,.hide-for-portrait{display:none !important}
