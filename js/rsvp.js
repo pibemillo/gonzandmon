@@ -6,7 +6,6 @@ noGuest = [
 'Al Sudari',
 'Alvarez',
 'Binder',
-'Miller',
 'Munn',
 'Franz',
 'Escobar',
@@ -25,6 +24,7 @@ noGuest = [
 
 oneGuest = [
 'Mazza',
+'Miller',
 'Stein',
 'Chang',
 'Copes',
