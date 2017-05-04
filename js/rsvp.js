@@ -18,7 +18,8 @@ noGuest = [
 'McGarrahan',
 'Lolis Coleman',
 'Coleman',
-'Lolis'
+'Lolis',
+'Rockwell'
 ];
 
 oneGuest = [
