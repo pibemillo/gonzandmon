@@ -19,7 +19,9 @@ noGuest = [
 'Lolis Coleman',
 'Coleman',
 'Lolis',
-'Rockwell'
+'Rockwell',
+'Hudson',
+'Cantu'
 ];
 
 oneGuest = [
@@ -39,7 +41,6 @@ oneGuest = [
 'Marcus',
 'Feldman',
 'Urbina',
-'Hudson',
 'Dickert',
 'Mestas',
 'Thais',
