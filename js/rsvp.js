@@ -1,5 +1,4 @@
 noGuest = [
-'Rosales',
 'de Cabrol',
 'Nestorovic',
 'Garduno',
@@ -25,6 +24,7 @@ noGuest = [
 ];
 
 oneGuest = [
+'Rosales',
 'Mazza',
 'Alvarez',
 'Miller',
