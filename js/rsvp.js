@@ -20,10 +20,15 @@ noGuest = [
 'Lolis',
 'Rockwell',
 'Hudson',
-'Cantu'
+'Cantu',
+'Brooks'
 ];
 
 oneGuest = [
+'Smith-Fennell',
+'Smith Fennell',
+'Smith',
+'Fennell',
 'Rosales',
 'Mazza',
 'Alvarez',
