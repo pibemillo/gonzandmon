@@ -25,6 +25,7 @@ noGuest = [
 ];
 
 oneGuest = [
+'Knox',
 'Smith-Fennell',
 'Smith Fennell',
 'Smith',
