@@ -6,9 +6,6 @@ noGuest = [
 'Binder',
 'Munn',
 'Franz',
-'Escobar',
-'elejalde',
-'elejalde escobar',
 'Ferriera',
 'Lambert',
 'McGoldrick',
@@ -21,11 +18,15 @@ noGuest = [
 'Rockwell',
 'Hudson',
 'Cantu',
-'Brooks'
+'Brooks',
+'Marzigliano'
 ];
 
 oneGuest = [
 'Knox',
+'Escobar',
+'elejalde',
+'elejalde escobar',
 'Smith-Fennell',
 'Smith Fennell',
 'Smith',
